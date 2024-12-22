@@ -9,3 +9,6 @@ their on-field contributions. Our approach involves identifying key performance 
 importance, and combining them into a formula to calculate a player’s overall value. This methodology
 aims to provide football clubs, agents, and analysts with valuable insights for making informed decisions in
 player recruitment, contract negotiations, and squad management
+
+
+Note - The jorunal article in the files section is the unpublished version.
