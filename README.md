@@ -11,4 +11,4 @@ aims to provide football clubs, agents, and analysts with valuable insights for 
 player recruitment, contract negotiations, and squad management
 
 
-Note - The jorunal article in the files section is the unpublished version.
+Note - The journal article in the files section is the unpublished version.
